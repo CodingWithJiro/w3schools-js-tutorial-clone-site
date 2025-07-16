@@ -15,6 +15,7 @@
 ![Dark Mode](https://img.shields.io/badge/Dark--Mode-Available-111?style=for-the-badge&logo=halfbrickstudios&logoColor=white)
 [![Google Lighthouse](https://img.shields.io/badge/Lighthouse-Audit-00B0FF?style=for-the-badge&logo=lighthouse&logoColor=white)](./downloads/lighthouse-performance-report.pdf)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/87d777de-98a8-401c-a904-238d3b239b44/deploy-status)](https://javascript-fundamentals-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%204-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.w3schools-js-tutorial-clone-site&left_text=repo%20views)
@@ -86,7 +87,7 @@ I created this project from scratch using only HTML, CSS, and JavaScript to rein
 
 ## 🌐 Live Demo
 
-Or you can check out the 👉 [live website here](LINK)
+Or you can check out the 👉 [live website here](https://javascript-fundamentals-jiro.netlify.app/)
 
 ---
 
@@ -103,10 +104,3 @@ Created by **Elmar Chavez**
 🗓️ Month/Year: **June - July 2025**
 
 📚 Journey: **3<sup>rd</sup> - 4<sup>th</sup>** month of learning _frontend web development_.
-
-<!--
-
-TAGS:
-html css vscode git github netlify 3rd-month 4th-month project lighthouse theme-toggle
-
--->
