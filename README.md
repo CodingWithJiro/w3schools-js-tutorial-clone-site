@@ -1,4 +1,4 @@
-# 💻 W3Schools JS Tutorial Clone Site
+# W3Schools JS Tutorial Clone Site
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,18 +20,18 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%204-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.w3schools-js-tutorial-clone-site&left_text=repo%20views)
 
-## ℹ️ JavaScript Fundamentals: A W3Schools JS Tutorials Clone Site
+## JavaScript Fundamentals: A W3Schools JS Tutorials Clone Site
 
 | _Mobile Preview (375x812)_                            | _Desktop Preview (1440x960)_                             |
 | ----------------------------------------------------- | -------------------------------------------------------- |
 | ![Mobile](./img/site-preview-mobile_375x812.png)      | ![Desktop](./img/site-preview-desktop_1440x960.png)      |
 | ![Mobile](./img/site-preview-mobile-dark_375x812.png) | ![Desktop](./img/site-preview-desktop-dark_1440x960.png) |
 
-This is a complete educational website that mirrors the JavaScript tutorials section of [W3Schools.com](https://www.w3schools.com/js/). It includes structured lessons, live interactive demo buttons, code tables, a responsive layout, theme toggling, and some quirky utilities like tracking the days since I started learning frontend.
+This is a complete educational website that mirrors the JavaScript tutorials section of **[W3Schools.com](https://www.w3schools.com/js/)**. It includes structured lessons, live interactive demo buttons, code tables, a responsive layout, theme toggling, and some quirky utilities like tracking the days since I started learning frontend.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project is a full educational clone of the W3Schools JavaScript tutorial section. It features a sidebar with navigation, collapsible content sections, interactive code examples, and visually enhanced demos to mimic real-world documentation.
 
@@ -39,7 +39,7 @@ I created this project from scratch using only HTML, CSS, and JavaScript to rein
 
 ---
 
-## ✨ Features
+## Features
 
 - Fully responsive and mobile-first layout
 - Dark/Light theme toggle (saved in local storage)
@@ -53,7 +53,7 @@ I created this project from scratch using only HTML, CSS, and JavaScript to rein
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - Learned the basics of JavaScript while building this site
 - DOM manipulation and event listeners
@@ -67,7 +67,7 @@ I created this project from scratch using only HTML, CSS, and JavaScript to rein
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -78,29 +78,29 @@ I created this project from scratch using only HTML, CSS, and JavaScript to rein
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://javascript-fundamentals-jiro.netlify.app/)
-
----
-
-## 📊 Performance Report
-
-A **Google Lighthouse** audit was conducted on the final version of this project. You can view the full report [here](./downloads/lighthouse-performance-report.pdf).
+Or you can check out the **[live website here](https://javascript-fundamentals-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Performance Report
+
+A **Google Lighthouse** audit was conducted on the final version of this project. You can view the **[full report here](./downloads/lighthouse-performance-report.pdf)**.
+
+---
+
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **June - July 2025**
+Month/Year: **June - July 2025**
 
-📚 Journey: **3<sup>rd</sup> - 4<sup>th</sup>** month of learning _frontend web development_.
+Journey: **3<sup>rd</sup> - 4<sup>th</sup>** month of learning _frontend web development_.
